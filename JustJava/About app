@@ -1,0 +1,2 @@
+Basic Android app that takes inputs(an oder of cofee) from the user and sends the output(here the order summary) to the reciver through email.
+android features such as intents ,styles and theme also used.
